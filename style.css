@@ -411,7 +411,9 @@ a:hover {
  
 nav .caret { 
     margin: 0 5px; 
-} 
+}
+
+
  
 .dropdown-menu .dropdown-menu { 
     top: -8px; 
@@ -585,6 +587,10 @@ a[data-lightbox]:hover img {
     right: 15px; 
     bottom: 5px; 
 } 
+
+.text-p-large{
+    font-size: 1.5em;
+}
  
 .close-lightbox { 
     color: #FFF; 
