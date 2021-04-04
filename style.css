@@ -502,6 +502,12 @@ a[data-lightbox]:hover img {
 .text-p-large {
   font-size: 1.5em;
 }
+
+.text-p-large-color {
+  font-size: 1.5em;
+  color: #e9b59e;
+}
+
 .close-lightbox {
   color: #fff;
   font-size: 30px;
